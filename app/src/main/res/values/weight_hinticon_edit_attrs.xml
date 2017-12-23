@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="edit_hint_img">
+        <attr name="imageSize" format="dimension" />
+        <attr name="hintImage" format="reference" />
+        <attr name="hintText" format="string" />
+        <attr name="hintTextColor" format="color" />
+        <attr name="hintTextSize" format="dimension" />
+    </declare-styleable>
+</resources>
